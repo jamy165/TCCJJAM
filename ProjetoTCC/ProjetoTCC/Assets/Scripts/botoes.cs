@@ -5,15 +5,16 @@ using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 public class botoes : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public void IniciarJogo()
     {
-        
+        SceneManager.LoadScene("CenaTD");
+
     }
 
-    // Update is called once per frame
-    void Update()
+    public void Comecar()
     {
-        
+        SceneManager.LoadScene("IntroJogo");
     }
+
+
 }
