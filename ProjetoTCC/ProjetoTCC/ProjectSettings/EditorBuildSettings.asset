@@ -12,9 +12,15 @@ EditorBuildSettings:
     path: Assets/Scenes/IntroJogo.unity
     guid: d53a6672d2118164190f654d8b810fb6
   - enabled: 1
+    path: "Assets/Scenes/Instru\xE7\xF5es.unity"
+    guid: e7fad9fbe7c65d044ad27b92a379af08
+  - enabled: 1
     path: Assets/Scenes/CenaTD.unity
     guid: 2243af0846683664a93a023852f389de
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 8ffec75acf2cb6740bea4c658b54bcc5
   m_configObjects: {}

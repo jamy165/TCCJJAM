@@ -16,5 +16,10 @@ public class botoes : MonoBehaviour
         SceneManager.LoadScene("IntroJogo");
     }
 
+      public void Instrucoes()
+    {
+        SceneManager.LoadScene("Instruções");
+    }
+
 
 }

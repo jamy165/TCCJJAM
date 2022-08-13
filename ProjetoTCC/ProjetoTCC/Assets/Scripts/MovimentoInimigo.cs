@@ -42,9 +42,14 @@ public class MovimentoInimigo : MonoBehaviour
     {
         distance = Vector2.Distance(transform.position, playerTransform.position);
 
-        if (distance <= 3f)
+        if (distance < 1f)
         {
+            speed = 0.2f;
             transform.position = Vector2.MoveTowards(transform.position, playerTransform.position, speed * Time.deltaTime);
+        }
+        else
+        {
+            speed = 0;
         }
   
 
