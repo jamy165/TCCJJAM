@@ -8,7 +8,9 @@ public class MovimentoInimigo : MonoBehaviour
     GameObject player;
     bool isAlive = true;
     public float distance;
-    
+    public GameObject municao;
+    public Transform SpawnMunicao;
+
     public Transform playerTransform;
 
     void Start()
@@ -54,5 +56,14 @@ public class MovimentoInimigo : MonoBehaviour
   
 
     }
+
+    void Shoot()
+    {
+        Instantiate(municao, SpawnMunicao.position, transform.rotation);
+    }
+
+    
+
+
 
 }

@@ -1,25 +1,25 @@
 fileFormatVersion: 2
-guid: 32999441b5335114ab088e8f16bc2009
+guid: 04286f1d7752c66409472322e1f57bcd
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7954435435723415785
-    second: "cabe\xE7a"
+      213: 3237461875286028592
+    second: chao_completo_0
   - first:
-      213: -2020901770748528469
-    second: "bra\xE7oE"
+      213: 5363961256756093603
+    second: chao_completo_1
   - first:
-      213: -4528099144657416737
-    second: corpo
+      213: -6706918947305970372
+    second: chao_completo_2
   - first:
-      213: 8002018864797890425
-    second: "bra\xE7oD"
+      213: 7842072724986840817
+    second: chao_completo_3
   - first:
-      213: 878982758221041890
-    second: pernaE
+      213: 8894803826749828741
+    second: chao_completo_4
   - first:
-      213: -713497065501015072
-    second: pernaD
+      213: -4812393689526622973
+    second: chao_completo_5
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -50,7 +50,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -109,127 +109,127 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "cabe\xE7a"
+      name: chao_completo_0
       rect:
         serializedVersion: 2
-        x: 18
-        y: 172
-        width: 86
-        height: 81
-      alignment: 9
-      pivot: {x: 0.6534404, y: 0.11625182}
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9e0e21762e4d36e60800000000000000
-      internalID: 7954435435723415785
+      spriteID: 0313b4a3c66cdec20800000000000000
+      internalID: 3237461875286028592
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "bra\xE7oE"
+      name: chao_completo_1
       rect:
         serializedVersion: 2
-        x: 4
-        y: 94
-        width: 18
-        height: 49
-      alignment: 9
-      pivot: {x: 0.5977469, y: 0.9129321}
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ba87394fb8054f3e0800000000000000
-      internalID: -2020901770748528469
+      spriteID: 3a2a7e1f75e907a40800000000000000
+      internalID: 5363961256756093603
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: corpo
+      name: chao_completo_2
       rect:
         serializedVersion: 2
-        x: 25
-        y: 96
-        width: 76
-        height: 73
-      alignment: 9
-      pivot: {x: 0.5308675, y: 0.20274124}
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fddc1fe91d5f821c0800000000000000
-      internalID: -4528099144657416737
+      spriteID: c35ad7090cc3ce2a0800000000000000
+      internalID: -6706918947305970372
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "bra\xE7oD"
+      name: chao_completo_3
       rect:
         serializedVersion: 2
-        x: 101
-        y: 119
-        width: 26
-        height: 43
-      alignment: 9
-      pivot: {x: 0.3082651, y: 0.9296332}
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 977b042d2c1ec0f60800000000000000
-      internalID: 8002018864797890425
+      spriteID: 1f6ce932893a4dc60800000000000000
+      internalID: 7842072724986840817
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pernaE
+      name: chao_completo_4
       rect:
         serializedVersion: 2
-        x: 19
-        y: 13
-        width: 24
-        height: 36
-      alignment: 9
-      pivot: {x: 0.48778138, y: 0.8991344}
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e0557b5926c23c00800000000000000
-      internalID: 878982758221041890
+      spriteID: 58e653824f0b07b70800000000000000
+      internalID: 8894803826749828741
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: pernaD
+      name: chao_completo_5
       rect:
         serializedVersion: 2
-        x: 60
-        y: 14
-        width: 30
-        height: 35
-      alignment: 9
-      pivot: {x: 0.597747, y: 0.90215987}
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0e3478ef2362916f0800000000000000
-      internalID: -713497065501015072
+      spriteID: 3052f60cf61f63db0800000000000000
+      internalID: -4812393689526622973
       vertices: []
       indices: 
       edges: []
