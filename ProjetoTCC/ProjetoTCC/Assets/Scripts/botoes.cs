@@ -21,5 +21,8 @@ public class botoes : MonoBehaviour
         SceneManager.LoadScene("Instruções");
     }
 
-
+    public void Sair()
+    {
+        Application.Quit();
+    }
 }
