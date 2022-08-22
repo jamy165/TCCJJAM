@@ -24,6 +24,8 @@ public class MovimentoPlayer : MonoBehaviour
 
     public Image barraVida;
 
+    public Animator Anim;
+
 
     void Start()
     {
